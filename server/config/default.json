@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://lidya:lidya@cluster0.uhy79.mongodb.net/kms?retryWrites=true&w=majority",
+    "mongoURIlocal": "mongodb://localhost/EKMS",
+    "jwtSecret": "mysecrettoken"
+}
